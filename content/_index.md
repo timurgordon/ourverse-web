@@ -1,228 +1,186 @@
 ---
-title: "Together, we create the future"
-description: "Together we expand and create this OurWorld platform, with the purpose to give a better digital life to billions of people. OurWorld can provide the alternative to the current too centralized, unsustainable and abused internet. Let's go back to what the internet was supposed to be." # quotation marks to allow colons where used
+title: "Ourverse"
+description: "The only truly decentralized metaverse on the planet awaits you."
 date: 2018-09-14T21:00:00-05:00
 updated: 2021-02-20T14:40:00-06:00
 draft: false
 extra:
-  author: Your name here
-  imgPath: /images/threefold_globe.png
+  author:
+  imgPath:
 ---
-
 
 <!-- section 1 (header) -->
 
-{% row(style="center narrow") %}
+{% row(style="center lean") %}
 
-## WELCOME TO THE <br> **PEOPLE’S INTERNET**
-
-### Join the peer-to-peer revolution
-
-#### Powered by the ThreeFold blockchain the People’s Internet is the layer 0 infrastructure for an open source P2P Internet owned by humanity.
-
-<button>[Become a farmer](/become-farmer)</button>
+![Image](/images/OVAsset-10.png#large)
 
 {% end %}
+
+{% row(style="center tight") %}
+
+### EXPAND YOUR
+
+## **IMETANATION**
+
+The only truly decentralized metaverse on the planet awaits you
+
+<button>[Explore](/)</button>
+
+{% end %}
+
+{{ space() }}
+
+{% row(style="center lean-left") %}
+
+![Image](/images/OVAsset-11.png)
+
+|||
+
+# WORK.
+
+# PLAY.
+
+# **LIVE.**
+
+<br/>
+
+Anything you can do in the real world you can do in OurVerse. Only your own imagination limits you. Explore or start building experiences and start earning now!
+
+<button>[Learn More](/learn-more)</button>
+
+{% end %}
+
+{{ space() }}
+
+{% row(style="center") %}
+
+### BUILD SOMETHING
+
+## **METACOOL**
+
+<br />
+
+Building is easy. Let your imagination soar in OurVerse, start creating for the world and earn immediatly!
+
+<button>[Learn More](/learn-more)</button>
+
+|||
+
+![Image](/images/OVAsset-12.png)
+
+{% end %}
+
+{{ space() }}
+
+{% row(style="center") %}
+
+![Image](/images/OVAsset-13.png)
+
+<br />
+
+#### COMPLETELY **DECENTRALIZED**
+
+<br/>
+
+Let your imagination soar in OurVerse, start creating for the world and earn immediatly!
+
+|||
+
+![Image](/images/OVAsset-14.png)
+
+<br />
+
+#### READY FOR **DEVELOPERS**
+
+<br/>
+
+Let your imagination soar in OurVerse, start creating for the world and earn immediatly!
+
+|||
+
+![Image](/images/OVAsset-15.png)
+
+<br />
+
+#### BUILT FOR **ABUNDANCE**
+
+<br/>
+
+Let your imagination soar in OurVerse, start creating for the world and earn immediatly!
+
+{% end %}
+
+{{ space() }}
 
 {% row(style="lean") %}
 
-![Image](/images/threefold_img.jpg#mx-auto)
+![Image](/images/OVAsset-16.png)
 
 {% end %}
 
+{% row() %}
 
-<br>
-<br>
+<br />
 
-
-<!-- section 2 (EXPAND) -->
-
-{% row(style="center") %}
-
-### EXPAND THE PEOPLE’S INTERNET <br> **AND EARN TFT**
-
-By connecting hardware at your home or office, support the growth of a decentralized Internet and earn a new digital currency, TFT.
-
-<button>[Become a farmer](/become-farmer)</button>
-
-![Image](/images/become_farmer_new.jpg#mx-auto)
+## BUILD ON **FREE LAND.**
 
 |||
 
-### DECENTRALIZE YOUR <br> **DATA AND WORKLOADS**
-
-Companies and developers have already started using ThreeFold for it’s autonomous, decentralization and privacy features.
-
-<button>[Deploy](/deploy)</button>
-
-![Image](/images/network_new.jpg#mx-auto)
-
-{% end %}
-
-
-<br>
-
-<br>
-
-<br>
-
-
-<!-- section 3 (P2P) -->
-
-{% row(style="center") %}
-
-![Image](/images/p4p_new.png#medium)
-
-|||
-
-## BUILT BY <br> THE PEOPLE <br> **FOR HUMANITY**
-
-The People’s Internet is formed by independent people from all around the world who connect Internet capacity to a new Planetary Network. Together they form a collective that brings a new paradigm – an open-source peer-to-peer Internet owned by humanity.
+No need to buy space. OurVerse provides free land for you to start creating!
 
 <button>[Learn More](/learn-more)</button>
 
 {% end %}
 
+{{ space() }}
 
-<br>
+{% row(style="center lean-left") %}
 
-<br>
+![Image](/images/OVAsset-17.png)
 
+|||
 
-<!-- section 4 (DECENTRALIZED) -->
+# CREATE **&EARN**
 
+<br/>
 
+We are open source and believe in true collaboration. That is why we provide a simple earning model that provides huge incentives for developers to create and expand OurVerse.
 
+<button>[TOKENOMICS](/learn-more)</button>
+
+{% end %}
+
+{{ space() }}
 
 {% row(style="center") %}
 
-## POWERED BY A <br> **DECENTRALIZED OS**
+### BUILT ON PURELY **DECENTRALIZED TECH.**
 
-Zero-OS is a stateless and lightweight operating system designed to host anything that runs on Linux in a decentralized way. Once installed, Zero-OS locks the hardware and dedicates its capacity to the People’s Internet via the ThreeFold Blockchain.
+<br />
 
-<button>[Learn More](/learn-more)</button>
+No other metaverse can boast on a truly open source and decentralized environment. OurVerse is completely built on the world's largest P2P network, the Threefold Grid, making it 100% decentralized.
 
-|||
-
-![Image](/images/zero_os.jpg#large)
-
-{% end %}
-
-
-<br>
-
-<br>
-
-
-<!-- section 5 (Map) -->
-
-
-{% grid_stats() %}
-
-### THE THREEFOLD GRID
-
-## **NOW OPERATIONAL**
-
-{% end %}
-
-
-<br>
-
-<br>
-
-
-<!-- section 6 (THE TEAM) -->
-
-{% team_sec() %}
-
-## **THE TEAM**
-
-{% end %}
-
-
-<br>
-
-<br>
-
-
-<!-- section 7 (PARTNERS) -->
-
-{% row(style="center moderate") %}
-
-## OUR GREATEST STRENGTH <br> **COMES FROM OUR PARTNERS**
-
-We are truly proud to be trusted by some of the biggest names in the industry.
-
-![Image](/images/ourpartners.png)
-
-<button>[Check All Partners](/learn-more)</button>
-
-{% end %}
-
-
-<br>
-
-<br>
-
-
-<!-- section 8 (IN THE NEWS) -->
-
-{% row(style="center") %}
-
-## **IN THE NEWS**
-
-{% end %}
-
-{% row(style="center between") %}
-
-[![forbes](/images/forbes.png#mx-auto)](https://www.forbes.com/sites/johnkoetsier/2020/06/20/largest-distributed-peer-to-peer-grid-on-the-planet-laying-foundation-for-a-decentralized-internet/?fbclid=IwAR1WKCpqLcWPRWg5bPD6RCQE5JJjRPt6ey5vbEnu3db2FvJnp6-YKeVZNW8#79aa340e6798)
+<button>[Know More](/)</button>
 
 |||
 
-[![cointelegraph](/images/cointelegraph.png#mx-auto)](https://cointelegraph.com/news/peer-to-peer-internet-has-lofty-goal-to-bring-true-decentralization)
-
-|||
-
-[![yahoo_news](/images/yahoo_news.png#mx-auto)](https://news.yahoo.com/news/threefold-set-disrupt-status-quo-051457787.html?guccounter=1)
+![Image](/images/OVAsset-18.png)
 
 {% end %}
 
-{% row(style="center between") %}
+{{ space() }}
 
-[![hackernoon](/images/hackernoon.png#mx-auto)](https://hackernoon.com/is-it-possible-to-create-a-decentralized-internet-this-startup-and-its-farmers-think-so-ey2e3ycf)
+{% row(style="center narrow invert-color" bgColor="#2d103e") %}
 
-|||
+## WANNA GET **INVOLVED?**
 
-[![smartereum](/images/smartereum.png#mx-auto)](https://smartereum.com/189750/threefold-is-audaciously-building-a-new-decentralized-internet/)
+<br/>
 
-|||
+Interested in partnering up? Or just wanna say hi?
 
-[![tga_daily](/images/tga_daily.png#mx-auto)](https://tgdaily.com/web/6-dfinity-threefold-are-leading-an-internet-decentralization-revolution/)
+Drop us a message!
 
-{% end %}
-{% row(style="center between") %}
-
-[![cointelegraph](/images/cointelegraph.png#mx-auto)](https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/is-a-new-decentralized-internet-or-web-3-0-possible/amp)
-
-|||
-
-[![banklesstimes](/images/banklesstimes.png#mx-auto)](https://www.banklesstimes.com/2021/06/14/threefolds-green-technology-strategy-to-a-fairer-more-sustainable-world/)
-
-|||
-
-[![grit_daily](/images/grit_daily.png#mx-auto)](https://gritdaily.com/belarus-governments-control-internet/)
-
-{% end %}
-
-<br>
-
-<br>
-
-
-<!-- section 9 (FEATURED STORIES) -->
-
-{% featured_stories() %}
-
-## **FEATURED STORIES**
+<button>[Email](/)</button>
 
 {% end %}
