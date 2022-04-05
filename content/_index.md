@@ -25,13 +25,13 @@ extra:
 
 The only truly decentralized metaverse on the planet awaits you
 
-<button>[Explore](/)</button>
+<button>[EXPLORE](#explore)</a></button>
 
 {% end %}
 
 {{ space() }}
 
-{% row(style="center lean-left") %}
+{% row(style="center lean-left" anchor="explore") %}
 
 ![Image](/images/OVAsset-11.png)
 
@@ -47,7 +47,7 @@ The only truly decentralized metaverse on the planet awaits you
 
 Anything you can do in the real world you can do in OurVerse. Only your own imagination limits you. Explore or start building experiences and start earning now!
 
-<button>[Learn More](/learn-more)</button>
+<button>[USE CASES](/use-cases)</button>
 
 {% end %}
 
@@ -63,7 +63,7 @@ Anything you can do in the real world you can do in OurVerse. Only your own imag
 
 Building is easy. Let your imagination soar in OurVerse, start creating for the world and earn immediatly!
 
-<button>[Learn More](/learn-more)</button>
+<button>[GET STARTED](/)</button>
 
 |||
 
@@ -129,7 +129,7 @@ Let your imagination soar in OurVerse, start creating for the world and earn imm
 
 No need to buy space. OurVerse provides free land for you to start creating!
 
-<button>[Learn More](/learn-more)</button>
+<button>[BUILD](/)</button>
 
 {% end %}
 
@@ -161,7 +161,7 @@ We are open source and believe in true collaboration. That is why we provide a s
 
 No other metaverse can boast on a truly open source and decentralized environment. OurVerse is completely built on the world's largest P2P network, the Threefold Grid, making it 100% decentralized.
 
-<button>[Know More](/)</button>
+<button>[KNOW MORE](/)</button>
 
 |||
 

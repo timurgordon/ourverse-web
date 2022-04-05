@@ -70,9 +70,6 @@ a h2 {
   @apply text-black;
 }
 
-a {
-  @apply text-blue-600 font-semibold;
-}
 a:focus,
 a:hover {
   @apply border-none text-blue-300;

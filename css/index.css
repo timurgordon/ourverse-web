@@ -110,7 +110,6 @@ img[src*="#tft_img"] {
     my-10
     border-2
     shadow
-    border-black
     capitalize;
   }
 }
@@ -127,6 +126,9 @@ button :is(:where(p)) {
 button {
   background-color: #1a1a1a;
   border-radius: 20px;
+  border: 2px solid white;
+  box-shadow: none;
+  font-size: 20px;
 }
 
 button a {
