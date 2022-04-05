@@ -19,6 +19,10 @@
   font-family: "Exo", sans-serif;
 }
 
+a {
+  font-family: "Lato", sans-serif;
+}
+
 .bg-semi-white {
   background-color: rgba(255, 255, 255, 0.75);
 }
@@ -112,7 +116,7 @@ img[src*="#tft_img"] {
 }
 
 button:hover :is(:where(a)) {
-  color: #3b82f6;
+  color: #be00ea;
 }
 
 button :is(:where(p)) {
@@ -120,8 +124,13 @@ button :is(:where(p)) {
   font-weight: 400;
 }
 
+button {
+  background-color: #1a1a1a;
+  border-radius: 20px;
+}
+
 button a {
-  color: black;
+  color: white;
 }
 
 a {
