@@ -2,56 +2,21 @@
 title: "Footer"
 description: "The alternative to the current too centralized and unsustainable internet."
 insert_anchor_links: "left"
-template: "partials/footer.html"
 extra:
   logoPath: "/images/tft_log.svg"
   socialLinks: { Facebook: "https://", Github: "https://", Twitter: "https://" }
 ---
 
-{% row(style="lean") %}
+{% row(style="center narrow invert-color" bgColor="#2d103e") %}
 
-##### Purpose
+## WANNA GET INVOLVED?
 
-<br>
+<br/>
 
-###### [The Internot]("/")
+Interested in partnering up? Or just wanna say hi?
 
-###### [Internet for all]("/")
+Drop us a message!
 
-###### [The Internot]("/")
-
-|||
-
-##### Ecosystem
-
-<br>
-
-###### [OurWorld DAO]("/")
-
-###### [Communities]("/")
-
-###### [DAO's]("/")
-
-|||
-
-##### Applications
-
-<br>
-
-###### [DAPPs]("/")
-
-###### [Projects]("/")
-
-|||
-
-##### Join
-
-<br>
-
-###### [People]("/")
-
-###### [Ideators]("/")
-
-###### [Developers]("/")
+<button>[Email](/)</button>
 
 {% end %}

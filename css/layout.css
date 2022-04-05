@@ -70,9 +70,6 @@ a h2 {
   @apply text-black;
 }
 
-a {
-  @apply text-blue-600 font-semibold;
-}
 a:focus,
 a:hover {
   @apply border-none text-blue-300;
@@ -123,12 +120,31 @@ h5,
 .h5,
 h6,
 .h6 {
-  @apply font-sans leading-tight tracking-tight;
+  @apply font-sans leading-none tracking-tight;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3 {
+  font-family: "Exo", sans-serif;
+}
+
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+  @apply font-sans leading-none tracking-tight;
+  font-family: "Lato", sans-serif;
 }
 
 h1,
 .h1 {
-  @apply text-4xl mb-4 font-extrabold;
+  @apply text-4xl font-extrabold;
 }
 
 h2,

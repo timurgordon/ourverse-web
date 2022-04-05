@@ -8,16 +8,19 @@
 @import "tailwindcss/components";
 @import "admonition.css";
 @import "tailwindcss/utilities";
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 /* Custom CSS for header partial */
 .backdrop-blur {
   -webkit-backdrop-filter: blur(40px);
 }
 
 * {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Exo", sans-serif;
+}
+
+a {
+  font-family: "Lato", sans-serif;
 }
 
 .bg-semi-white {
@@ -44,7 +47,7 @@ img[src*="#logo"] {
 }
 
 img[src*="#large"] {
-  width: 1000px;
+  width: min(60vw, 100vh);
   margin: auto;
 }
 
@@ -53,28 +56,31 @@ img[src*="#tft_img"] {
   margin: 8px;
 }
 
-.logo_size{
-  width:200px
+.logo_size {
+  width: 200px;
 }
 
 @layer components {
   h1 {
-    @apply text-3xl lg:text-7xl font-normal;
+    @apply text-5xl lg:text-9xl font-normal leading-none;
+  }
+  h1 strong {
+    @apply font-semibold;
   }
   h2 {
-    @apply text-3xl lg:text-6xl my-4 font-light leading-none;
+    @apply text-3xl lg:text-8xl font-normal leading-none;
   }
   h2 strong {
     @apply font-medium;
   }
   h3 {
-    @apply text-xl lg:text-4xl my-4 font-extralight leading-none;
+    @apply text-xl lg:text-6xl font-normal leading-none;
   }
   h3 strong {
     @apply font-semibold;
   }
   h4 {
-    @apply text-sm lg:text-2xl font-normal;
+    @apply text-sm lg:text-4xl font-normal;
   }
   h5 {
     @apply text-md my-1 tracking-widest text-zinc-500 font-semibold;
@@ -83,7 +89,8 @@ img[src*="#tft_img"] {
     @apply text-md not-italic font-normal my-1;
   }
   p {
-    @apply text-lg;
+    @apply text-2xl leading-tight;
+    font-family: "Lato", sans-serif;
   }
   blockquote {
     @apply border-l-4 border-gray-400 mx-2 my-2 p-2;
@@ -95,8 +102,7 @@ img[src*="#tft_img"] {
     @apply text-sm lg:text-sm font-light;
   }
   button {
-    @apply 
-    inline-block
+    @apply inline-block
     lg:text-lg
     px-12
     py-1
@@ -104,13 +110,12 @@ img[src*="#tft_img"] {
     my-10
     border-2
     shadow
-    border-black
-    capitalize
+    capitalize;
   }
 }
 
 button:hover :is(:where(a)) {
-  color: #3b82f6;
+  color: #be00ea;
 }
 
 button :is(:where(p)) {
@@ -118,8 +123,16 @@ button :is(:where(p)) {
   font-weight: 400;
 }
 
+button {
+  background-color: #1a1a1a;
+  border-radius: 20px;
+  border: 2px solid white;
+  box-shadow: none;
+  font-size: 20px;
+}
+
 button a {
-  color: black;
+  color: white;
 }
 
 a {
@@ -174,7 +187,6 @@ header {
   -webkit-filter: grayscale(0%);
   filter: grayscale(0%);
 }
-
 
 .banner {
   width: 100%;
