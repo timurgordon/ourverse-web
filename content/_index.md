@@ -23,9 +23,7 @@ extra:
 
 ## **IMETANATION**
 
-The only truly decentralized metaverse
-
-on the planet awaits you
+The only truly decentralized metaverse on the planet awaits you
 
 <button>[EXPLORE](#explore)</a></button>
 
