@@ -62,34 +62,34 @@ img[src*="#tft_img"] {
 
 @layer components {
   h1 {
-    @apply text-5xl lg:text-9xl font-normal leading-none;
+    @apply text-6xl lg:text-9xl font-normal leading-none;
   }
   h1 strong {
     @apply font-semibold;
   }
   h2 {
-    @apply text-3xl lg:text-8xl font-normal leading-none;
+    @apply text-5xl lg:text-8xl font-normal leading-none;
   }
   h2 strong {
     @apply font-medium;
   }
   h3 {
-    @apply text-xl lg:text-6xl font-normal leading-none;
+    @apply text-3xl lg:text-6xl font-normal leading-none;
   }
   h3 strong {
     @apply font-semibold;
   }
   h4 {
-    @apply text-sm lg:text-4xl font-normal;
+    @apply text-xl lg:text-4xl font-normal;
   }
   h5 {
-    @apply text-md my-1 tracking-widest text-zinc-500 font-semibold;
+    @apply text-xl lg:text-3xl font-normal;
   }
   h6 {
     @apply text-md not-italic font-normal my-1;
   }
   p {
-    @apply text-2xl leading-tight;
+    @apply text-lg lg:text-2xl leading-tight;
     font-family: "Lato", sans-serif;
   }
   blockquote {

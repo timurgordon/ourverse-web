@@ -1,10 +1,10 @@
 ---
 title: "Footer"
-description: "The alternative to the current too centralized and unsustainable internet."
+description: "The only truly decentralized metaverse on the planet awaits you."
 insert_anchor_links: "left"
 extra:
-  logoPath: "/images/tft_log.svg"
-  socialLinks: { Facebook: "https://", Github: "https://", Twitter: "https://" }
+  logoPath: "/images/OurVerse-logo.png"
+  socialLinks: { Github: "https://" }
 ---
 
 {% row(style="center narrow invert-color" bgColor="#2d103e") %}
