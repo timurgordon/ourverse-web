@@ -3,7 +3,7 @@ title: "Footer"
 description: "The alternative to the current too centralized and unsustainable internet."
 insert_anchor_links: "left"
 extra:
-  logoPath: "/images/tft_log.svg"
+  logoPath: "/images/OurVerse-logo.png"
   socialLinks: { Facebook: "https://", Github: "https://", Twitter: "https://" }
 ---
 
