@@ -83,7 +83,7 @@ img[src*="#tft_img"] {
     @apply text-xl lg:text-4xl font-normal;
   }
   h5 {
-    @apply text-md my-1 tracking-widest text-zinc-500 font-semibold;
+    @apply text-xl lg:text-3xl font-normal;
   }
   h6 {
     @apply text-md not-italic font-normal my-1;

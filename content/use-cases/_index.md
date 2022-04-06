@@ -41,7 +41,7 @@ already in OurVerse.
 
 <br/>
 
-#### The only truly decentralized metaverse on the planet awaits you
+##### Visit custom made shops in OurVerse and experience the future of e-commerce.
 
 |||
 
@@ -55,7 +55,7 @@ already in OurVerse.
 
 <br/>
 
-#### The only truly decentralized metaverse on the planet awaits you
+##### Meeting rooms in OurVerse can help you carry your meetings from a grid to a conference room.
 
 {% end %}
 
@@ -71,7 +71,7 @@ already in OurVerse.
 
 <br/>
 
-#### The only truly decentralized metaverse on the planet awaits you
+##### Visit exhibitions and experience art digitally as you would in an actual gallery.
 
 |||
 
@@ -85,7 +85,7 @@ already in OurVerse.
 
 <br/>
 
-#### The only truly decentralized metaverse on the planet awaits you
+##### Concerts, career fairs, anything you can imagine. OurVerse events redefine our understanding of virtual events.
 
 {% end %}
 
@@ -101,7 +101,7 @@ already in OurVerse.
 
 <br/>
 
-#### The only truly decentralized metaverse on the planet awaits you
+##### Elevate your digital socializing experience from chat boxes to VR meetups.
 
 |||
 
@@ -115,7 +115,7 @@ already in OurVerse.
 
 <br/>
 
-#### The only truly decentralized metaverse on the planet awaits you
+##### Create and play any VR game you can imagine.
 
 {% end %}
 
