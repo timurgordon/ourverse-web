@@ -13,7 +13,7 @@ extra:
 
 {% row(style="center lean") %}
 
-![Image](/images/OVAsset-10.png#large)
+![Image](/images/OVAsset-10.jpg#large)
 
 {% end %}
 
@@ -33,7 +33,7 @@ The only truly decentralized metaverse on the planet awaits you
 
 {% row(style="center lean-left" anchor="explore") %}
 
-![Image](/images/OVAsset-11.png)
+![Image](/images/OVAsset-11.jpg)
 
 |||
 
@@ -67,7 +67,7 @@ Building is easy. Let your imagination soar in OurVerse, start creating for the 
 
 |||
 
-![Image](/images/OVAsset-12.png)
+![Image](/images/OVAsset-12.jpg)
 
 {% end %}
 
@@ -75,7 +75,7 @@ Building is easy. Let your imagination soar in OurVerse, start creating for the 
 
 {% row(style="center") %}
 
-![Image](/images/OVAsset-13.png)
+![Image](/images/OVAsset-13.jpg)
 
 <br />
 
@@ -87,7 +87,7 @@ Let your imagination soar in OurVerse, start creating for the world and earn imm
 
 |||
 
-![Image](/images/OVAsset-14.png)
+![Image](/images/OVAsset-14.jpg)
 
 <br />
 
@@ -99,7 +99,7 @@ Let your imagination soar in OurVerse, start creating for the world and earn imm
 
 |||
 
-![Image](/images/OVAsset-15.png)
+![Image](/images/OVAsset-15.jpg)
 
 <br />
 
@@ -115,7 +115,7 @@ Let your imagination soar in OurVerse, start creating for the world and earn imm
 
 {% row(style="lean") %}
 
-![Image](/images/OVAsset-16.png)
+![Image](/images/OVAsset-16.jpg)
 
 {% end %}
 
@@ -137,7 +137,7 @@ No need to buy space. OurVerse provides free land for you to start creating!
 
 {% row(style="center lean-left") %}
 
-![Image](/images/OVAsset-17.png)
+![Image](/images/OVAsset-17.jpg)
 
 |||
 
@@ -165,7 +165,7 @@ No other metaverse can boast on a truly open source and decentralized environmen
 
 |||
 
-![Image](/images/OVAsset-18.png)
+![Image](/images/OVAsset-18.jpg)
 
 {% end %}
 

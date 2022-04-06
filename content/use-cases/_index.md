@@ -23,7 +23,7 @@ already in OurVerse.
 
 |||
 
-![Image](/images/OVAsset-33.png)
+![Image](/images/OVAsset-33.jpg)
 
 {% end %}
 
@@ -31,7 +31,7 @@ already in OurVerse.
 
 {% row(style="center moderate" anchor="experiences") %}
 
-![Image](/images/OVAsset-27.png)
+![Image](/images/OVAsset-27.jpg)
 
 <br/>
 
@@ -45,7 +45,7 @@ already in OurVerse.
 
 |||
 
-![Image](/images/OVAsset-28.png)
+![Image](/images/OVAsset-28.jpg)
 
 <br/>
 
@@ -61,7 +61,7 @@ already in OurVerse.
 
 {% row(style="center moderate") %}
 
-![Image](/images/OVAsset-29.png)
+![Image](/images/OVAsset-29.jpg)
 
 <br/>
 
@@ -75,7 +75,7 @@ already in OurVerse.
 
 |||
 
-![Image](/images/OVAsset-30.png)
+![Image](/images/OVAsset-30.jpg)
 
 <br/>
 
@@ -91,7 +91,7 @@ already in OurVerse.
 
 {% row(style="center moderate") %}
 
-![Image](/images/OVAsset-31.png)
+![Image](/images/OVAsset-31.jpg)
 
 <br/>
 
@@ -105,7 +105,7 @@ already in OurVerse.
 
 |||
 
-![Image](/images/OVAsset-32.png)
+![Image](/images/OVAsset-32.jpg)
 
 <br/>
 
