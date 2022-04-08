@@ -63,7 +63,7 @@ Anything you can do in the real world you can do in OurVerse. Only your own imag
 
 Building is easy. Let your imagination soar in OurVerse, start creating for the world and earn immediatly!
 
-<button>[GET STARTED](/)</button>
+<button>[LEARN MORE](/about)</button>
 
 |||
 
@@ -147,8 +147,6 @@ No need to buy space. OurVerse provides free land for you to start creating!
 
 We are open source and believe in true collaboration. That is why we provide a simple earning model that provides huge incentives for developers to create and expand OurVerse.
 
-<button>[TOKENOMICS](/learn-more)</button>
-
 {% end %}
 
 {{ space() }}
@@ -161,7 +159,7 @@ We are open source and believe in true collaboration. That is why we provide a s
 
 No other metaverse can boast on a truly open source and decentralized environment. OurVerse is completely built on the world's largest P2P network, the Threefold Grid, making it 100% decentralized.
 
-<button>[KNOW MORE](/)</button>
+<button>[KNOW MORE](/about)</button>
 
 |||
 
@@ -181,6 +179,6 @@ Interested in partnering up? Or just wanna say hi?
 
 Drop us a message!
 
-<button>[Email](/)</button>
+<button>[Email](mailto:info@ourverse.tf)</button>
 
 {% end %}
