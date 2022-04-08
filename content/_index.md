@@ -129,7 +129,7 @@ Let your imagination soar in OurVerse, start creating for the world and earn imm
 
 No need to buy space. OurVerse provides free land for you to start creating!
 
-<button>[BUILD](/)</button>
+<button>[LEARN MORE](/about)</button>
 
 {% end %}
 
