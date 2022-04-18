@@ -115,7 +115,7 @@ img[src*="#tft_img"] {
 }
 
 button:hover :is(:where(a)) {
-  color: #be00ea;
+  color: #c6f8ff;
 }
 
 button :is(:where(p)) {

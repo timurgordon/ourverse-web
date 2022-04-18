@@ -19,7 +19,7 @@ Parameters:
     {% set row_class = row_class ~ " lg:items-center" %}
 {% endif %}
 
-{% set col_class = "flex-1 mb-20 lg:mb-0 lg:mx-8" %}
+{% set col_class = "flex-1 mb-20 lg:mb-0 " %}
 
 {% if style %}
 
@@ -39,8 +39,9 @@ Parameters:
         {% else %}
             {% set col_class = col_class ~ "flex-1 lg:m-0 " %}
         {% endif %}    
-        {% else %}
-            {% set row_class = row_class ~ " mx-8 " %}
+    {% else %}
+        {% set row_class = row_class ~ " mx-8 " %}
+        {% set col_class = col_class ~ " lg:mx-8 " %}
     {% endif %}
 
      <!-- makes row semi-full screen width, strips margins -->

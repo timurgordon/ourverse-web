@@ -9,6 +9,7 @@ extra:
 ---
 
 - [HOME]("/")
-- [BLOGS]("https://threefold.io/blog")
-- [USE CASES]("/use-cases")
-- [BUILD]("/")
+- [BLOGS]("/blog")
+- [USE CASES]("/")
+- [TECH]("/")
+- [GET IN TOUCH]("mailto:info@ourverse.tf")
