@@ -31,13 +31,13 @@ Parameters:
     <!-- makes row full screen width, strips margins -->
     {% if "lean" in style %}
         {% if "lean-left" in style %}
-            {% set col_class = col_class ~ "flex-1 lg:m-0 " %}
-            {% set row_class = row_class ~ " lg:mr-20 " %}
+            {% set col_class = col_class ~ " last:px-20 max-w-[50%] " %}
+            {% set row_class = row_class ~ " sm:gap-0 " %}
         {% elif "lean-right" in style %}
-            {% set col_class = col_class ~ "flex-1 lg:m-0 " %}
-            {% set row_class = row_class ~ " lg:ml-20 " %}
+            {% set col_class = col_class ~ " first:px-20 max-w-[50%] " %}
+            {% set row_class = row_class ~ " sm:gap-0 " %}
         {% else %}
-            {% set col_class = col_class ~ "flex-1 lg:m-0 " %}
+            {% set col_class = col_class ~ " lg:m-0 " %}
         {% endif %}    
     {% else %}
         {% set row_class = row_class ~ " mx-8 " %}
